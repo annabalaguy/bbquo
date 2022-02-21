@@ -12,3 +12,6 @@ from bbquo.lib import get_quote
 "je suis une string"
 
 st.write(get_quote())
+
+
+"## this is the new version !"
