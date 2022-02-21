@@ -13,5 +13,5 @@ setup(name='bbquo',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/bbquo-run'],
+      scripts=['scripts/bbquo-run', 'scripts/bbquo-test2'],
       zip_safe=False)
